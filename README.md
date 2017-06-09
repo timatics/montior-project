@@ -1,5 +1,6 @@
 # montior-project
 python based monitoring and notification service  for AWS web applications.
+
 Goals
 1. latency Monitoring, ICMP, database access
 
